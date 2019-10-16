@@ -2,7 +2,7 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Search previous suggestions before making a new one, as yours may be a duplicate.dennis
 - Make sure your contribution is useful and relevant before submitting. That implies it having enough content and every item has a good succinct description.
 - Make an individual pull request for each suggestion.
 - Use the following format: `- [Repository Name](link-to-repository-label) _(label: beginner-friendly-label-in-the-repository)_ <br> Description`
